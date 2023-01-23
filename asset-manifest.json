@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thephilosophertalks/static/css/main.073c9b0a.css",
+    "main.js": "/thephilosophertalks/static/js/main.e605e96a.js",
+    "static/js/787.d95e726a.chunk.js": "/thephilosophertalks/static/js/787.d95e726a.chunk.js",
+    "static/media/logo.svg": "/thephilosophertalks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thephilosophertalks/index.html",
+    "main.073c9b0a.css.map": "/thephilosophertalks/static/css/main.073c9b0a.css.map",
+    "main.e605e96a.js.map": "/thephilosophertalks/static/js/main.e605e96a.js.map",
+    "787.d95e726a.chunk.js.map": "/thephilosophertalks/static/js/787.d95e726a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e605e96a.js"
+  ]
+}
